@@ -30,5 +30,5 @@
   "devDependencies": {
     "gh-pages": "^6.2.0"
   },
-  "homepage": "https://agetroortega.github.io/react/tictactoe"
+  "homepage": "https://agetroortega.github.io/react-tic-tac-toe"
 }
